@@ -1,4 +1,4 @@
-import api from './https'; // o mesmo axios que você usa no login etc.
+import api from './https';
 
 export type UserRole = 'ADMIN' | 'VIEWER';
 

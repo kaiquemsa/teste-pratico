@@ -60,7 +60,6 @@ const LoginPage: React.FC = () => {
 
   return (
     <div className="min-h-screen flex border-t-[6px] border-primary-500">
-      {/* Lado esquerdo */}
       <div className="hidden lg:flex lg:w-1/2 gradient-dark relative overflow-hidden">
         <div className="absolute inset-0 opacity-10">
           <div className="absolute top-20 left-20 w-72 h-72 rounded-full bg-primary blur-3xl" />
@@ -111,7 +110,6 @@ const LoginPage: React.FC = () => {
         </div>
       </div>
 
-      {/* Lado direito - form */}
       <div className="flex-1 flex items-center justify-center p-8 bg-background">
         <motion.div
           initial={{ opacity: 0, scale: 0.95 }}
