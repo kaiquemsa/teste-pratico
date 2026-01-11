@@ -63,12 +63,12 @@ Este projeto foi desenvolvido com boas práticas de arquitetura, autenticação,
 ```
 backend/
  ├─ src/
+ │   ├─ common/
+ │       ├─- guards/
+ │       ├─- decorators/
  │   ├─ auth/
  │   ├─ users/
  │   ├─ employees/
- │   ├─ prisma/
- │   ├─ guards/
- │   ├─ decorators/
  │   └─ main.ts
  └─ prisma/
      └─ schema.prisma
@@ -82,7 +82,9 @@ frontend/
  │   ├─ components/
  │   ├─ hooks/
  │   ├─ context/
- │   ├─ services/
+ │   ├─ api/
+ │   ├─ layouts/
+ │   ├─ lib/
  │   └─ main.tsx
  └─ index.css
 ```
