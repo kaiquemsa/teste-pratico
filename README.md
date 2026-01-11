@@ -242,15 +242,15 @@ http://localhost:5173
 > ![alt text](./images/image-3.png)
 
 ### Edição de Funcionário (ADMIN)
-![alt text](./images/image-4.png)
+> ![alt text](./images/image-4.png)
 
 ### Gestão de Usuários (ADMIN)
-![alt text](./images/image-5.png)
-![alt text](./images/image-6.png)
+> ![alt text](./images/image-5.png)
+> ![alt text](./images/image-6.png)
 
 ### Modo Viewer (restrições)
-![alt text](./images/image-7.png)
-![alt text](./images/image-8.png)
+> ![alt text](./images/image-7.png)
+> ![alt text](./images/image-8.png)
 
 ---
 
