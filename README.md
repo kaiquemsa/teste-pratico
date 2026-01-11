@@ -248,7 +248,7 @@ http://localhost:5173
 
 ### Modo Viewer (restrições)
 ![alt text](./images/image-7.png)
-![alt text](image-8.png)
+![alt text](./images/image-8.png)
 
 ---
 
