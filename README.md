@@ -1,6 +1,10 @@
 # StaffHub — Sistema de Gestão de Funcionários
 
-Aplicação Full Stack composta por **Frontend (React + Vite + Tailwind + Axios)** e **Backend (NestJS + Prisma + MySQL + JWT)** com fluxo de autenticação e controle de acesso baseado em papéis (`ADMIN` e `VIEWER`).
+O **StaffHub** é um sistema Full Stack de gestão de funcionários desenvolvido com foco em organização interna, controle de acesso e segurança. Seu objetivo é permitir que empresas e equipes tenham uma visão centralizada do seu quadro de colaboradores, com funcionalidades como cadastro, edição, listagem, filtros, dashboards com métricas e permissões baseadas em perfis de usuário.
+
+O sistema possui dois tipos de usuários: **ADMIN** e **VIEWER**, cada um com permissões específicas. Administradores podem cadastrar, editar e remover funcionários, além de gerenciar outros usuários do sistema. Usuários do tipo Viewer têm acesso apenas à visualização das informações e métricas, sem capacidade de alterá-las.
+
+Este projeto foi desenvolvido com boas práticas de arquitetura, autenticação, segurança e organização de código, utilizando **React + Vite + Tailwind** no frontend e **NestJS + Prisma + MySQL + JWT** no backend, formando um ambiente completo de estudo, avaliação e demonstração de habilidades Full Stack.
 
 ---
 
